@@ -1,0 +1,15 @@
+img {
+  max-width: 500px;
+  height: 200;
+  width: 200;
+  margin: auto;
+  background-color: #703E3E;
+  border-style: solid;
+  border-width: medium;
+  border-radius: 25px;
+  padding: 10px;
+}
+
+ body {
+  background-color: #8B7B8B
+}
